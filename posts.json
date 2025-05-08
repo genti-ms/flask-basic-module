@@ -3,12 +3,6 @@
         "id": 1,
         "author": "John Doe",
         "title": "First Post",
-        "content": "This is my first post and it works"
-    },
-    {
-        "id": 3,
-        "author": "Hans Peter",
-        "title": "Codio-Flask",
-        "content": "programming and it work"
+        "content": "This is my first flask-Codio work"
     }
 ]
